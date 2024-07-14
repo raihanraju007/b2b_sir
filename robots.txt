@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /bdadmin/
+Disallow: /bdadmin
+Disallow: /login/
+Disallow: /login
+Disallow: /buyer/
+Disallow: /buyer
+Disallow: /seller/
+Disallow: /seller
+Disallow: /public/js/
+Disallow: /js/
+Disallow: /*.php$
+Disallow: /*.asp$
+Disallow: /*.html$
+Disallow: /*.htm$
+Disallow: /*.aspx$
+Disallow: /*.jsp$
+
